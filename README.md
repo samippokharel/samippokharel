@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samippokharel
+- 👋 Hi, I’m @suzaan
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
